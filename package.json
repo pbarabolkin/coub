@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/pbarabolkin/coub/issues"
   },
-  "homepage": "https://github.com/pbarabolkin/coub#readme"
+  "homepage": "https://github.com/pbarabolkin/coub#readme",
+  "dependencies": {
+    "request": "latest",
+    "optimist": "latest",
+    "lodash": "latest"
+  }
 }
