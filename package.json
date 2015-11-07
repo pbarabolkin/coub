@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/pbarabolkin/coub#readme",
   "dependencies": {
-    "request": "latest",
+    "q": "latest",
+    "request-promise": "latest",
     "optimist": "latest",
     "lodash": "latest",
-    "mongoose": "latest"
+    "mongoose": "latest",
+    "open": "latest"
   }
 }
